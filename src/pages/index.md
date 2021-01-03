@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |-
-      # 20th Centuary Stuff
+      # 20th Century Stuff
       Lots of stuff from the 20th Century
     actions:
       - title: See all items
