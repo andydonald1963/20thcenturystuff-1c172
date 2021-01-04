@@ -8,7 +8,7 @@ sections:
     background_image_opacity: 80
     content: |-
       # 20th Century Stuff
-      Lots of stuff from the 20th Centuryxxxxxxxx
+      Lots of stuff from the 20th Century
     actions:
       - title: See all items
         url: /store
