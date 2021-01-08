@@ -54,6 +54,6 @@ sections:
       title: Discover
       url: /store
       style: secondary
-      arrow: true
+      arrow: false
 template: home
 ---
